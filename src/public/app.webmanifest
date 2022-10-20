@@ -1,0 +1,36 @@
+{
+    "id": "Mari Makan-lite-pwa-1",
+    "start_url": "./index.html",
+    "name": "Mari Makan Lite",
+    "short_name": "Movie Lite",
+    "description": "Free restaurant catalogue for you",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#135ea8",
+    "icons": [
+      {
+        "src": "/icons/icon-64x64.png",
+        "sizes": "64x64",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }
